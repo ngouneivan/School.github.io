@@ -1,0 +1,1 @@
+<?php return array('dependencies' => array('jquery', 'react', 'wc-blocks-registry', 'wc-settings', 'wp-element', 'wp-i18n', 'wp-polyfill'), 'version' => '59ec5524b25fe72065fd14407fb2d8ad');

@@ -1,0 +1,305 @@
+# Translation of Plugins - TutorMate - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - TutorMate - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-06-05 23:12:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - TutorMate - Stable (latest release)\n"
+
+#: inc/WPCLICommands.php:341
+msgid "Success, all widgets are set!"
+msgstr "Réussi, tous les widgets sont définis !"
+
+#: inc/WPCLICommands.php:287
+msgid "Executing action: %s ..."
+msgstr "Exécution de l’action : %s …"
+
+#: inc/WPCLICommands.php:267
+msgid "There were some issues while importing customizer settings!"
+msgstr "Il y a eu quelques problèmes lors de l’importation des réglages de l’outil de personnalisation !"
+
+#: inc/WPCLICommands.php:264
+msgid "Customizer settings imported successfully!"
+msgstr "Les réglages de l’outil de personnalisation ont bien été importés !"
+
+#: inc/WPCLICommands.php:259
+msgid "Importing customizer settings..."
+msgstr "Importation des réglages de l’outil de personnalisation…"
+
+#: inc/WPCLICommands.php:255
+msgid "Customizer import file provided does not exist! Skipping this import!"
+msgstr "Le fichier d’importation de l’outil de personnalisation fourni n’existe pas ! Passez cette importation !"
+
+#: inc/WPCLICommands.php:236
+msgid "There were some issues while importing widgets!"
+msgstr "Il y a eu quelques problèmes lors de l’importation des widgets !"
+
+#: inc/WPCLICommands.php:233
+msgid "Widgets imported successfully!"
+msgstr "Widgets bien importés !"
+
+#: inc/WPCLICommands.php:228
+msgid "Importing widgets..."
+msgstr "Importation des widgets…"
+
+#: inc/WPCLICommands.php:224
+msgid "Widgets import file provided does not exist! Skipping this import!"
+msgstr "Le fichier d’importation de widgets fourni n’existe pas ! Passez cette importation !"
+
+#: inc/WPCLICommands.php:205
+msgid "There were some issues while importing the content!"
+msgstr "Il y a eu quelques problèmes lors de l’importation du contenu !"
+
+#: inc/WPCLICommands.php:202
+msgid "Content import finished!"
+msgstr "Importation du contenu terminée !"
+
+#: inc/WPCLICommands.php:197
+msgid "Importing content"
+msgstr "Importation du contenu"
+
+#: inc/WPCLICommands.php:195
+msgid "Importing content (this might take a while)..."
+msgstr "Importation du contenu (cela peut prendre un certain temps)…"
+
+#: inc/WPCLICommands.php:186
+msgid "Content import file provided does not exist! Skipping this import!"
+msgstr "Le fichier d’importation de contenu fourni n’existe pas ! Passez cette importation !"
+
+#: inc/WPCLICommands.php:174
+msgid "Predefined import finished!"
+msgstr "Importation prédéfinie terminée !"
+
+#: inc/WPCLICommands.php:154
+msgid "Importing..."
+msgstr "Importation…"
+
+#: inc/WPCLICommands.php:152
+msgid "Demo import files retrieved successfully!"
+msgstr "Fichiers d’importation de démo bien récupérés !"
+
+#: inc/WPCLICommands.php:149
+msgid "Demo import files could not be retrieved!"
+msgstr "Les fichiers d’importation de démo n’ont pas pu être récupérés !"
+
+#: tutormate.php:69
+msgid "The %2$sTutormate %3$s plugin requires %2$sPHP 5.3.2+%3$s to run properly. Please contact your hosting company and ask them to update the PHP version of your site to at least PHP 5.3.2.%4$s Your current version of PHP: %2$s%1$s%3$s"
+msgstr "L’extension %2$sTutormate %3$s nécessite %2$sPHP 5.3.2+%3$s pour fonctionner correctement. Veuillez contacter votre hébergeur et lui demander de mettre à jour la version PHP de votre site au minimum à PHP 5.3.2.%4$s Votre version actuelle de PHP : %2$s%1$s%3$s"
+
+#: inc/WPCLICommands.php:144
+msgid "Preparing the demo import files..."
+msgstr "Préparation des fichiers d’importation de la démo…"
+
+#: inc/WPCLICommands.php:141
+msgid "Selected predefined demo import: %s"
+msgstr "Importation de la démo prédéfinie sélectionnée : %s"
+
+#: inc/WPCLICommands.php:136
+msgid "Predefined demo import started! All other parameters will be ignored!"
+msgstr "L’importation de la démo prédéfinie a commencé ! Tous les autres paramètres seront ignorés !"
+
+#: inc/WPCLICommands.php:129
+msgid "The supplied predefined index does not exist! Please take a look at the available predefined demo imports:"
+msgstr "L’index prédéfini fourni n’existe pas ! Veuillez consulter les importations prédéfinies de démonstration disponibles :"
+
+#: inc/WPCLICommands.php:123
+msgid "The \"predefined\" parameter should be a number (an index of the TUTORMATE predefined demo import)!"
+msgstr "Le paramètre « prédéfini » doit être un nombre (un index de l’importation de la démo prédéfinie de Tutormate) !"
+
+#: inc/WPCLICommands.php:72
+msgid "At least one of the possible options should be set! Check them with --help"
+msgstr "Au moins une des options possibles doit être définie ! Vérifiez-les avec --help"
+
+#: inc/WPCLICommands.php:39
+msgid "Here are the predefined demo imports:"
+msgstr "Voici les importations de démonstration prédéfinies :"
+
+#: inc/WPCLICommands.php:36
+msgid "There are no predefined demo imports for currently active theme!"
+msgstr "Il n’y a aucune importation de démo prédéfinie pour le thème actuellement actif !"
+
+#: inc/WidgetImporter.php:332
+msgid "No results for widget import!"
+msgstr "Aucun résultat pour l’importation de widget !"
+
+#: inc/WidgetImporter.php:286
+msgid "No Title"
+msgstr "Aucun titre"
+
+#: inc/WidgetImporter.php:276
+msgid "Imported"
+msgstr "Importée"
+
+#: inc/WidgetImporter.php:280
+msgid "Imported to Inactive"
+msgstr "Importée dans inactif"
+
+#: inc/WidgetImporter.php:211
+msgid "Widget already exists"
+msgstr "Le widget existe déjà"
+
+#: inc/WidgetImporter.php:178
+msgid "Site does not support widget"
+msgstr "Le site ne prend pas en charge les widgets"
+
+#: inc/WidgetImporter.php:157
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr "La colonne latérale n’existe pas dans le thème (déplacement du widget dans « Inactif »)"
+
+#: inc/WidgetImporter.php:118
+msgid "Error: Widget import data could not be read. Please try a different file."
+msgstr "Erreur : les données d’importation du widget ne peuvent être lues. Veuillez essayer un autre fichier."
+
+#: inc/WidgetImporter.php:89
+msgid "Error: Widget import file could not be found."
+msgstr "Erreur :  le fichier d’importation du widget est introuvable."
+
+#: inc/WidgetImporter.php:42 inc/WidgetImporter.php:54
+msgid "Importing widgets"
+msgstr "Importation de widgets"
+
+#: inc/OneClickDemoImport.php:495
+msgid "%1$sThe demo import has finished, but there were some import errors.%2$sMore details about the errors can be found in this %3$s%5$slog file%6$s%4$s%7$s"
+msgstr "%1$sL’importation de la démo est terminée, mais il y a eu quelques erreurs d’importation.%2$sVous trouverez plus de détails sur les erreurs dans ce %3$s%5$sfichier journal%6$s%4$s%7$s"
+
+#: inc/OneClickDemoImport.php:484
+msgid "%1$s%3$sThat's it, all done!%4$s%2$sThe demo import has finished. Please check your page and make sure that everything has imported correctly. If it did, you can deactivate the %3$sTutormate%4$s plugin.%5$s"
+msgstr "%1$s%3$sC’est ça, tout est fait !%4$s%2$sL’importation de la démo est terminée. Veuillez vérifier votre page et vous assurer que tout a été importé correctement. Si c’est le cas, vous pouvez désactiver l’extension %3$sTutormate%4$s.%5$s"
+
+#: inc/OneClickDemoImport.php:366
+msgid "No import files specified!"
+msgstr "Aucun fichier d’importation spécifié !"
+
+#: inc/OneClickDemoImport.php:357
+msgid "The import files for: %s were successfully downloaded!"
+msgstr "Les fichiers d’importation pour : %s ont bien été téléchargés !"
+
+#: inc/OneClickDemoImport.php:350 inc/OneClickDemoImport.php:361
+msgid "Downloaded files"
+msgstr "Fichiers téléchargés"
+
+#: inc/OneClickDemoImport.php:337
+msgid "Manually uploaded files"
+msgstr "Fichiers téléversés manuellement"
+
+#: inc/OneClickDemoImport.php:140
+msgid "Starter Sites"
+msgstr "Sites de démarrage"
+
+#: inc/Importer.php:173 lib/awesomemotive/src/Importer.php:504
+msgid "New AJAX call!"
+msgstr "Nouvel appel AJAX !"
+
+#: inc/Helpers.php:481 inc/Helpers.php:482 inc/Helpers.php:483
+msgid "not defined!"
+msgstr "non défini !"
+
+#: inc/Helpers.php:478
+msgid "Files info:%1$sSite URL = %2$s%1$sData file = %3$s%1$sWidget file = %4$s%1$sCustomizer"
+msgstr "Infos sur les fichiers :%1$sURL du site = %2$s%1$sFichier de données = %3$s%1$sFichier des widgets = %4$s%1$sOutil de personnalisation"
+
+#: inc/Helpers.php:474
+msgid "Initial max execution time = %s"
+msgstr "Temps d’exécution maximal initial = %s"
+
+#: inc/Helpers.php:456
+msgid "The import files were successfully uploaded!"
+msgstr "Les fichiers d’importation ont bien été téléversés !"
+
+#: inc/Helpers.php:446
+msgid "Customizer file was not uploaded. Error: %s"
+msgstr "Le fichier de l’outil de personnalisation n’a pas été téléversé. Erreur : %s"
+
+#: inc/Helpers.php:429
+msgid "Widget file was not uploaded. Error: %s"
+msgstr "Le fichier des widgets n’a pas été téléversé. Erreur : %s"
+
+#: inc/Helpers.php:416 inc/Helpers.php:433 inc/Helpers.php:450
+#: inc/Helpers.php:458
+msgid "Upload files"
+msgstr "Téléverser des fichiers"
+
+#: inc/Helpers.php:412
+msgid "Content file was not uploaded. Error: %s"
+msgstr "Le fichier du contenu n’a pas été téléversé. Erreur : %s"
+
+#: inc/Helpers.php:387
+msgid "No file provided."
+msgstr "Aucun fichier fourni."
+
+#: inc/Helpers.php:356
+msgid "%sYour user role isn't high enough. You don't have permission to import demo data.%s"
+msgstr "%sVotre rôle de compte n’est pas assez élevé. Vous n’avez pas le droit d’importer des données de démonstration.%s"
+
+#: inc/Helpers.php:324
+msgid "Tutormate Demo Import - "
+msgstr "Importation de la démo Tutormate - "
+
+#: inc/Helpers.php:286
+msgid "Your WordPress login credentials don't allow to use WP_Filesystem!"
+msgstr "Vos infos de connexion WordPress ne vous permettent pas d’utiliser WP_Filesystem !"
+
+#: inc/Helpers.php:278
+msgid "An error occurred while retrieving reading/writing permissions to your server (could not retrieve WP filesystem credentials)!"
+msgstr "Une erreur s’est produite lors de la récupération des droits de lecture/écriture sur votre serveur (impossible de récupérer les infos de connexion du fichier système WP) !"
+
+#: inc/Helpers.php:266
+msgid "Demo Import"
+msgstr "Importation de démo"
+
+#: inc/Helpers.php:265 inc/OneClickDemoImport.php:139
+msgid "Tutor Starter Demo Import"
+msgstr "Importation de la démo de démarrage Tutor"
+
+#: inc/DemoImport.php:128
+msgid "Elementor"
+msgstr "Elementor"
+
+#: inc/DemoImport.php:119
+msgid "Qubely"
+msgstr "Qubely"
+
+#: inc/DemoImport.php:110
+msgid "Tutor LMS Elementor Addons"
+msgstr "Modules Elementor Tutor LMS"
+
+#: inc/DemoImport.php:101
+msgid "Tutor LMS"
+msgstr "Tutor LMS"
+
+#: inc/DemoImport.php:92
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/CustomizerImporter.php:43 inc/CustomizerImporter.php:51
+msgid "Importing customizer settings"
+msgstr "Importation des réglages de l’outil de personnalisation"
+
+#. Author URI of the plugin
+msgid "https://www.themeum.com"
+msgstr "https://www.themeum.com"
+
+#. Author of the plugin
+msgid "Themeum"
+msgstr "Themeum"
+
+#. Plugin Name of the plugin
+msgid "TutorMate"
+msgstr "TutorMate"
+
+#: inc/CustomizerImporter.php:49
+msgid "Customizer settings import finished!"
+msgstr "Importation des réglages de l’outil de personnalisation terminée !"
+
+#. Description of the plugin
+msgid "Companion demo importer plugin for TutorStarter theme."
+msgstr "Extension d’outil d’importation de démos pour le thème TutorStarter."
+
+#: inc/Downloader.php:62
+msgid "Missing URL for downloading a file!"
+msgstr "URL manquante pour le téléchargement d’un fichier !"
